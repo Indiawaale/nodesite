@@ -1,0 +1,21 @@
+{
+  "name": "foodcrawl",
+  "version": "1.0.0",
+  "description": "crawler for food events in universities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "",
+    "request":"2.64.0",
+    "geocoder":"",
+    "algoliasearch":"",
+    "mongodb":""
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "krishnan krishvs in github",
+  "license": "ISC"
+}
